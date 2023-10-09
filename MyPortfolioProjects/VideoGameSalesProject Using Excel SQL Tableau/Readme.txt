@@ -1,5 +1,5 @@
 My name is Ebube Akukwe a Junior Data Analyst and this is my personal project using a Video Game Sales Dateset I got from Kraggle.
-Link to dataset: https://
+Link to dataset: https://www.kaggle.com/datasets/gregorut/videogamesales
 I made these questions myself to test all I've learnt from Alex Freberg (AlexTheAnalyst) tutorials on youtube.
 These personal set tasks touches Excel for Cleaning, SQL for Calculations, Creating and Updating Tables, and Tableau for Visualization.
 The Answers are in the Answers Folder. Feel free to check it out.
