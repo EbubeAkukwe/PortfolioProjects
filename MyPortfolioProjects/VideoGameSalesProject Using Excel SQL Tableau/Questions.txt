@@ -1,0 +1,35 @@
+
+
+TASKS :
+---------------------------------------------------------
+-Clean the VideoGameSalesMain.csv in Excel and save as VideoGameSalesCleaned.csv
+-Create a SQLCodes folder
+-Open SSMS Create new database(VideoGameSales) using the cleaned data, start a new query under the new database and save as VideoGameSales.sql in the SQLCodes Folder
+-Grab all Playstaion games data in SQL and save as PlayStationData.csv 
+-Grab all Xbox games data in SQL and save as Xbox.csv
+-Create a GrabData folder and store the PlayStationData.csv and Xbox.csv there.
+-Create Visualization and dashboard in Tableau using the PlayStationData.csv and Xbox.csv data and save
+-Create a Dashboard with Excel and Summarise (Question2 answers should be placed here)
+-Edit your Dashboard as you like. Making sure it looks presentable and important views are seen at a glance.
+-Create a Dashboard folder and save your Excel Dashboard
+-Create an Answers.txt file and Input all the answers from questions 1a to 2i
+-Create an Answer folder and store all the above folders.
+
+
+
+QUESTIONS
+---------------------------------------------------------
+1)
+a. List all the formula you used when cleaning the dataset with Excel
+b. What problems did you face when working in Excel and SQL
+
+2)
+a. Which year did Playstation had the most sales ?
+b. Which year did Playstation had the least sales ?
+c. What genre of games do Playstaion sell more of and by how many percent ?
+d. What genre of games do Playstation sell the least of and by how many percent ?
+e. Which year did Xbox had the most sales ?
+f. Which year did Xbox had the least sales ?
+g. What genre of games do Xbox sell more of and by how many percent ?
+d. What genre of games do Xbox sell the least of and by how many percent ?
+i. From the dataset how many Xbox games sells per one Playstation game sold i.e The Sales Ratio Between the two

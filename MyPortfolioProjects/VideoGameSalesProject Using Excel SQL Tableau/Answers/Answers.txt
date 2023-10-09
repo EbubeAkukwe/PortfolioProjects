@@ -1,0 +1,31 @@
+ANSWERS
+---------------------------------------------------------
+1a)
+EXCEL FORMULA USED
+-TRIM
+-TEXTJOIN
+
+WORKING IN SQL
+
+---------------------------------------------------------
+
+1b)
+Issues/Problems
+1)I had some problems when importing the cleaned data to SSMS.
+I resolved it by changing the Name column type to text instead of the normal varchar
+
+
+
+2a)Playsation had the most sales in year 2004
+b)Playstation had the lowest sales in 2017
+c)Playstation Sells Action genre most and by 24.61%
+d)Playstation Sells Puzzle genre the least and by 0.64%
+e)Xbox had the most sales in year 2004
+f)Xbox had the lowest sales in 2017
+g)Xbox Sells Shooter genre most and by 28.70%
+h)Xbox Sells Puzzle genre the least and by 0.084%
+i)From the data approximately 4 Xbox is sold for every 10 Playstation sold. Sales Ratio is 0.4
+
+
+
+
