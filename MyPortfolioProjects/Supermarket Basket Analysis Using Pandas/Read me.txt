@@ -1,0 +1,33 @@
+Pros of program:
+This program is good for getting quick insights on a Mall or Supermarket Database, supposing you need to check for trends
+or find failing products or even to get where to give coupons that'll have minimal or close to zero effect on revenue
+
+The date replace function works great because it works on any month apart from January, February or March which is pretty cool
+because you might be working with datasets from all 12 months.
+You can copy and use it in your code where you see fit(Change the date in format dd-mm-yyyy to just the month in text)
+
+The only thing that'll need changing is the cities, supossing more branches opened in 10 more cities. I won't have much of a 
+problem, I'll just add the letters representing them to the branch list and the city names to the branch_cities dictionary.
+
+Save me alot of stress of having to rewrite every month analysis code for the mall. I'll have time to focus on more important
+things like finding trends or suggestion marketing strategies using the insights gotten from the Basket Analysis.
+
+If I leave the mall, the next analyst won't have to rewrite all the code, he'll just have to start from where I stopped and
+add to the code, supposing the company implemented a new payment system and opened a Gaming and Accessories section for
+example.Really just copy and paste already existing code, with some few changes to make it work.
+
+Last but not the least is that it's freakishly fast in technical terms the Time of Execution is less than 2 seconds
+like it dosen't matter how many customers the database got it just runs like breez
+
+Cons of program:
+No virtualization
+
+Note:
+I added a block of code that saves the output of the function to a text file in format Branch_Month_Member_Analysis.txt
+eg Yangow_January_Member_Analysis in folder SuperMarket Basket Analysis in Desktop. Just incase you need to print it out and
+find patterns and trends manually by yourself or your collegue.
+
+Ciáo happy coding!
+
+
+Like this project? follow me on twitter @ebubeakukwe. Are you an employer?Reach out to me at +2349037358860 or ebubeakukwe@gmail.com
